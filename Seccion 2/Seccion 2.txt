@@ -1,0 +1,10 @@
+1. ¿Cual es la diferencia entre una llave primaria y una llave unica?
+- La llave primaria no acepta nuls
+y la unica si
+
+2. ¿Qué son las restricciones? -Explica diferenctes tipos de restricciones
+- No se
+
+
+3. ¿Cuales son los pasos para incrementar el rendimiento de una consulta con bajo rendimiento?
+- Obtimizando los datos
